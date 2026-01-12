@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burningsea-web/static/css/main.fa47783c.css",
+    "main.js": "/burningsea-web/static/js/main.905103c6.js",
+    "index.html": "/burningsea-web/index.html",
+    "main.fa47783c.css.map": "/burningsea-web/static/css/main.fa47783c.css.map",
+    "main.905103c6.js.map": "/burningsea-web/static/js/main.905103c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa47783c.css",
+    "static/js/main.905103c6.js"
+  ]
+}
