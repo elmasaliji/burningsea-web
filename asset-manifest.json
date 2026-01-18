@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/burningsea-web/static/css/main.fa47783c.css",
-    "main.js": "/burningsea-web/static/js/main.b5bb40db.js",
+    "main.css": "/burningsea-web/static/css/main.9a3b646b.css",
+    "main.js": "/burningsea-web/static/js/main.1f219394.js",
     "index.html": "/burningsea-web/index.html",
-    "main.fa47783c.css.map": "/burningsea-web/static/css/main.fa47783c.css.map",
-    "main.b5bb40db.js.map": "/burningsea-web/static/js/main.b5bb40db.js.map"
+    "main.9a3b646b.css.map": "/burningsea-web/static/css/main.9a3b646b.css.map",
+    "main.1f219394.js.map": "/burningsea-web/static/js/main.1f219394.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa47783c.css",
-    "static/js/main.b5bb40db.js"
+    "static/css/main.9a3b646b.css",
+    "static/js/main.1f219394.js"
   ]
 }
